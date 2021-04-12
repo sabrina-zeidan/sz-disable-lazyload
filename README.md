@@ -1,15 +1,5 @@
 # UI option to disable Lazyloading for Cover Block
 
-*Why this is not a pull request:*
-
-I wrapped this as a plugin now, as I feel that I lack the experience to make it a proper PR.
-This feature may be expanded to support further Block types, images, and iframes, in the future. I feel like talking to other contributors would help to make it better. 
-If that’s okay I’m eager to ask for feedback in Slack and get to the PR after — I believe this way it has more odds to become a non-breaking change which adds functionality.
- 
-\
-\
-\
-\
 This feature adds an option to UI to disable lazyloading of an image inside Gutenberg Cover Block.  
 
 
